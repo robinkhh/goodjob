@@ -1,1 +1,2 @@
-mylist=[1,2,3,4,5]
+mylist=['test',2,3,4,5]
+print (mylist)
