@@ -1,3 +1,4 @@
+#test yield
 def acall(n):
     while n > 0:
         yield n
